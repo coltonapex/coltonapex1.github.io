@@ -1,2 +1,0 @@
-# coltonapex.github.io
-infotech
