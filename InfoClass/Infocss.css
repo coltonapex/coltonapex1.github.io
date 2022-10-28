@@ -1,0 +1,99 @@
+.main{
+    padding: 30px;
+}
+nav{
+    text-align: center;
+    border: 2px solid lightgray;
+    background-color: lightgray;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+p{
+    color: white;
+}
+ul{
+    color: white;
+}
+img{
+    width: 300px;
+    height: 400px;
+}
+.img2{
+    width: 300px;
+    height: 400px;
+}
+.img3{
+    width: 300px;
+    height: 800px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.floatleft{
+float: left;
+}
+.floatright{
+float: right;
+}
+.floatlefttext{
+float: left;
+}
+.floatrighttext{
+float: right;
+border: 2px solid lightgray;
+background-color: lightgray;
+}
+.floatlefttext{
+    float:left;
+    border: 2px solid lightgray;
+    background-color: lightgray;
+}
+body{
+    background-image: url('second.jpg');
+    background-size: cover;
+
+}
+.body2{
+    background-image: url('third.jpg');
+    background-size: cover;
+}
+.body3{
+    background-image: url('main.jpg');
+    background-size: cover;
+}
+.text2{
+    text-align: center;
+    color: maroon;
+}
+.ul2{
+    display: table;
+    margin: 0 auto;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: maroon;
+}
+.ul3{
+    display: table;
+    margin: 0 auto;
+}
+.h3{
+    text-align: center;
+    border: 2px solid gray;
+    background-color: gray;
+}
+footer{
+    text-align: center;
+}
+.foottext{
+    font-weight: bold;
+    color: maroon;
+}
